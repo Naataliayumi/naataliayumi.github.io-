@@ -1,0 +1,65 @@
+body {
+	background:#100010;color:violet ;
+}
+
+#banner {
+	
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center
+}
+
+strong {
+    color: pink;
+}
+
+.itens {
+    font-size:italic
+}
+
+.benefícios {
+	background: #000010
+}
+
+.principal {
+    
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+	display: inline-block;
+	width: 20%
+}
+
+.imagembeneficios {
+	width:50%
+}
+ 
+   main{
+   	   width: 940px;
+   	   margin:  0 auto;
+}
+   
+ form{
+ 	 margin: 40px 0;
+ }
+
+ form label {
+ 	  display:block;
+ 	  font-size: 20px;
+ 	  margin: 0 0 10px;
+ }
+
+ form input{
+ 	 display: block;
+ 	 margin: 0 0 10px;
+ 	 padding: 10px 25px;
+ 	 width: 50%;
+ }
